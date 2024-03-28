@@ -29,7 +29,7 @@ const ListContactsAdmin = () => {
       <Row className="justify-content-center">
         <Col md={7}>
           <Col className="text-center">
-            <h2>List Contacts</h2>
+            <h2>List Contacts (Admin)</h2>
           </Col>
         </Col>
       </Row>
